@@ -1,0 +1,14 @@
+D:\уч еба2\calculator\calculator\calculator\bin\Debug\net8.0\calculator.exe
+D:\уч еба2\calculator\calculator\calculator\bin\Debug\net8.0\calculator.deps.json
+D:\уч еба2\calculator\calculator\calculator\bin\Debug\net8.0\calculator.runtimeconfig.json
+D:\уч еба2\calculator\calculator\calculator\bin\Debug\net8.0\calculator.dll
+D:\уч еба2\calculator\calculator\calculator\bin\Debug\net8.0\calculator.pdb
+D:\уч еба2\calculator\calculator\calculator\obj\Debug\net8.0\calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\уч еба2\calculator\calculator\calculator\obj\Debug\net8.0\calculator.AssemblyInfoInputs.cache
+D:\уч еба2\calculator\calculator\calculator\obj\Debug\net8.0\calculator.AssemblyInfo.cs
+D:\уч еба2\calculator\calculator\calculator\obj\Debug\net8.0\calculator.csproj.CoreCompileInputs.cache
+D:\уч еба2\calculator\calculator\calculator\obj\Debug\net8.0\calculator.dll
+D:\уч еба2\calculator\calculator\calculator\obj\Debug\net8.0\refint\calculator.dll
+D:\уч еба2\calculator\calculator\calculator\obj\Debug\net8.0\calculator.pdb
+D:\уч еба2\calculator\calculator\calculator\obj\Debug\net8.0\calculator.genruntimeconfig.cache
+D:\уч еба2\calculator\calculator\calculator\obj\Debug\net8.0\ref\calculator.dll
